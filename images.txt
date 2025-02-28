@@ -5,11 +5,11 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 # test
-kubesphere/kube-proxy:v1.29.12
-kubesphere/kube-apiserver:v1.29.12
-kubesphere/kube-controller-manager:v1.29.12
-kubesphere/kube-scheduler:v1.29.12
+kubesphere/kube-proxy:v1.28.2
+kubesphere/kube-apiserver:v1.28.2
+kubesphere/kube-controller-manager:v1.28.2
+kubesphere/kube-scheduler:v1.28.2
 coredns/coredns
 bitnami/etcd
 rancher/pause:3.6
-starrocks/allin1-ubuntu
+starrocks/allin1-ubuntu:3.4.0
