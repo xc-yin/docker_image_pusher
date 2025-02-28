@@ -13,3 +13,4 @@
 # bitnami/etcd
 # rancher/pause:3.6
 # starrocks/allin1-ubuntu:3.4.0
+coredns/coredns:v1.10.1
